@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a data enigineering student studying at AltSchoolAfrica. I love working with data and I'm passionate about using data to solve problems. I'm currently learning how to use data to solve business problems.";
+  "I'm a data engineering student studying at AltSchoolAfrica. I love working with data and I'm passionate about using data to solve problems. I'm currently learning how to use data to solve business problems.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
