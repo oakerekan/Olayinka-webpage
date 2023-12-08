@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "hhttp://oakerekan.github.io/Olayinka-webpage",
+  "homepage": "http://oakerekan.github.io/Olayinka-webpage",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
